@@ -1,7 +1,19 @@
-.test1 {
-    float: left;
+.wraper{
+    background-color: darkturquoise;
+    width: 500px;
 }
 
-.test2 {
-    float: right;
+.image{
+    width:200px;
+    float:left;
+    margin:30px;
+}
+
+.test {
+    margin: 0px 15px 15px 15px;
+    padding-top: 15px;
+}
+
+.clear{
+    clear:both;
 }
