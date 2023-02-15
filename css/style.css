@@ -1,0 +1,79 @@
+/*Base classes - start*/
+.d-inline-block {
+    display: inline-block;
+}
+
+/*Base classes - end*/
+
+.navigation {
+    height: 50px;
+    width: 600px;
+    background-color: darkcyan;
+    margin-top: 20px;
+}
+
+.nav-1 {
+    color: aquamarine;
+    font-size: 18px;
+    font-family: 'ALK Sanet';
+    font-weight: bold;
+    display: inline-block;
+    height: 40px;
+    width: 120px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    text-align: center;
+    margin-left: 10px;
+}
+
+.activate {
+    color: aqua;
+    background-color: deeppink;
+}
+
+.contact1 {
+    border: dotted 2px;
+    margin: 100px 0px 300px 0px;
+    font-family: 'ALK Sanet';
+    font-weight: bold;
+    padding: 25px 10px 20px 20px;
+    align-content: center;
+    height: 100px;
+    width: 350px;
+    vertical-align: middle;
+}
+
+.map {
+    vertical-align: middle;
+}
+
+/*footer*/
+#nika {
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.footer-div-1 {
+    background-color: #F2F4F4;
+    margin: 100px 0px 0px 0px;
+    font-family: 'ALK Sanet';
+    font-weight: bold;
+    width: 600px;
+}
+
+.footer-div2 {
+    display: inline-block;
+    border: none;
+    vertical-align: middle;
+    margin-left: 100px;
+}
+
+.soc-media {
+    width: 30px;
+}
+
+/*about us*/
+.abus-section {
+    margin: 50px 0px 0px 0px;
+}
